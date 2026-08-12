@@ -1,0 +1,4 @@
+# Git hooks are EXTENSION-LESS, so a *.sh rule never reaches them. A CRLF
+# checkout makes Linux/WSL reject the hook as `bad interpreter: env bash^M`;
+# git then SKIPS it silently and every fix commit lands ungated.
+tools/git-hooks/* text eol=lf
