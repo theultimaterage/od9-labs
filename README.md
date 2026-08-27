@@ -15,7 +15,7 @@ same "shipped project" credit the progression system counts.
 
 1. Read [`CLAUDE.md`](CLAUDE.md) — it onboards your AI in one file (you should
    read it too; it's short).
-2. Pick an [issue](../../issues), or open one with your own idea.
+2. Pick an [issue](https://github.com/theultimaterage/od9-labs/issues), or open one with your own idea.
 3. Branch, build, PR. A maintainer reviews and merges.
 
 **House rules in one line:** no secrets, no member data, nothing touches
